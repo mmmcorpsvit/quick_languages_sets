@@ -1,0 +1,1 @@
+C:\Windows\System32\control.exe intl.cpl,, /f:"remove_ukraine.xml"
